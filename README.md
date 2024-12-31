@@ -12,7 +12,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-EF6B1B?style=flat&logo=matlab&logoColor=white)
 ## Programming Interests <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- **Generative AI for 3D geometry**
+- **Generative AI for 3D CAD geometry**
 - **Structural analysis**
 - **Workplace safety management**
 - **Multiphysics optimization**
@@ -22,4 +22,4 @@
 - **[Concrete Column PMM App](https://www.efficalc.com/public-calc/design/concrete-column-pmm)**
 A web app for analyzing reinforced concrete columns under biaxial moments. Generates a 3D capacity surface plot, 2D capacity plots, and detailed calculation reports.
 
-[![LinkedIn](https://img.shields.io/badge/-James%20Anderson-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-anderson-princeton/)
+<a href="https://www.linkedin.com/in/james-anderson-princeton/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jamesanderson"/></a> 
